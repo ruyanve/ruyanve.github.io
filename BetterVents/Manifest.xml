@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <Manifest>
-    <identifier>ruyan.coolers</identifier>
+    <identifier>ruyan.vents</identifier>
     <version>1.1.0.0</version>
     <dependencies>
         <li>Harmony</li>
@@ -13,9 +13,9 @@
         <li>Harmony</li>
     </loadAfter>
     <suggests>
-        <li>BetterVents</li>
+        <li>BetterCoolers</li>
     </suggests>
     <showCrossPromotions>true</showCrossPromotions>
-    <manifestUri>https://ruyanve.github.io/Manifest.xml</manifestUri>
-    <downloadUri>https://github.com/ruyanve/BetterCoolers/releases</downloadUri>
+    <manifestUri>https://ruyanve.github.io/BetterVents/Manifest.xml</manifestUri>
+    <downloadUri>https://github.com/ruyanve/BetterVents/releases</downloadUri>
 </Manifest>
